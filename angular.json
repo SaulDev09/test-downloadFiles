@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular7Project"
+    }
+  },
+  "defaultProject": "Angular7Project",
+  "cli": {
+    "analytics": false
+  }
 }
